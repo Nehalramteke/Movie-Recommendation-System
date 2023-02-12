@@ -4,4 +4,4 @@
 
 > Used TMDB 5000 Movies Dataset From Kaggle.
 
-> Build a Model to Recommend the 5 Similar Movies based on the given input.
+> Build a Model to Recommend 5 Similar Movies based on the given input.
